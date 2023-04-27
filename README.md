@@ -48,7 +48,7 @@ This file takes regular expression and string as input and convert RE into equiv
 
 
 
-6.``` (((((a)|(b))*)((b)(a)))|((a)|(b)))```         \\((a|b)*ba)|(a|b)
+6. ```(((((a)|(b))*)((b)(a)))|((a)|(b)))```         \\((a|b)*ba)|(a|b)
 
     string: ```baababaab```
 
